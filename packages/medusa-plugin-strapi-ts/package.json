@@ -1,12 +1,12 @@
 {
-  "name": "medusa-plugin-strapi-ts",
-  "version": "4.4.15",
-  "description": "A plugin for medusa to use strapi in the backend as the cms in typescript",
+  "name": "medusa-plugin-strapi-ts-wine",
+  "version": "4.4.15-wine",
+  "description": "A plugin for medusa to use strapi in the backend as the cms in typescript with extended fields for wine",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/SGFGOV/medusa-strapi-repo/"
+    "url": "https://github.com/Synesthesia-eCommerce/medusa-strapi-repo"
   },
   "keywords": [
     "medusa",
@@ -19,7 +19,7 @@
     "e-commerce",
     "content management"
   ],
-  "author": "Govind Diwakar",
+  "author": "Govind Diwakar, Antonio Sgobio",
   "license": "MIT",
   "scripts": {
     "integration-test": "yarn test",
